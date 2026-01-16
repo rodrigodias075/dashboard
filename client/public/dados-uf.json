@@ -1,0 +1,1409 @@
+[
+  {
+    "uf": "SC",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1148,
+        "valor": 18383.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 1770,
+        "valor": 30947.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1522,
+        "valor": 23787.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 594,
+        "valor": 9330.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1299,
+        "valor": 20261.96
+      },
+      {
+        "mes": "jun",
+        "qtde": 1248,
+        "valor": 19425.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 952,
+        "valor": 16950.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 723,
+        "valor": 11255.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2237,
+        "valor": 38001.0
+      },
+      {
+        "mes": "out",
+        "qtde": 803,
+        "valor": 10480.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 829,
+        "valor": 13058.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1038,
+        "valor": 16545.0
+      }
+    ],
+    "total_qtde": 14163,
+    "total_valor": 228422.96
+  },
+  {
+    "uf": "SP",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 8894,
+        "valor": 135871.4
+      },
+      {
+        "mes": "fev",
+        "qtde": 7040,
+        "valor": 109105.5
+      },
+      {
+        "mes": "mar",
+        "qtde": 4606,
+        "valor": 67381.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 5802,
+        "valor": 89137.7
+      },
+      {
+        "mes": "mai",
+        "qtde": 5988,
+        "valor": 90238.5
+      },
+      {
+        "mes": "jun",
+        "qtde": 5604,
+        "valor": 80380.5
+      },
+      {
+        "mes": "jul",
+        "qtde": 6479,
+        "valor": 98358.5
+      },
+      {
+        "mes": "ago",
+        "qtde": 6690,
+        "valor": 100253.5
+      },
+      {
+        "mes": "set",
+        "qtde": 7100,
+        "valor": 101239.5
+      },
+      {
+        "mes": "out",
+        "qtde": 8153,
+        "valor": 118782.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 4297,
+        "valor": 62883.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 4812,
+        "valor": 72884.5
+      }
+    ],
+    "total_qtde": 75465,
+    "total_valor": 1126515.6
+  },
+  {
+    "uf": "RO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3079,
+        "valor": 50235.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2796,
+        "valor": 44010.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2202,
+        "valor": 34430.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3628,
+        "valor": 58045.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 2873,
+        "valor": 46640.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 2359,
+        "valor": 39165.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 4461,
+        "valor": 72020.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 3058,
+        "valor": 50040.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2677,
+        "valor": 44590.0
+      },
+      {
+        "mes": "out",
+        "qtde": 3630,
+        "valor": 58695.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 2054,
+        "valor": 32890.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 3312,
+        "valor": 53730.0
+      }
+    ],
+    "total_qtde": 36129,
+    "total_valor": 584490.0
+  },
+  {
+    "uf": "MG",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 12337,
+        "valor": 195577.01
+      },
+      {
+        "mes": "fev",
+        "qtde": 12434,
+        "valor": 188438.5
+      },
+      {
+        "mes": "mar",
+        "qtde": 9066,
+        "valor": 141960.5
+      },
+      {
+        "mes": "abr",
+        "qtde": 10487,
+        "valor": 162469.01
+      },
+      {
+        "mes": "mai",
+        "qtde": 13157,
+        "valor": 202464.52000000002
+      },
+      {
+        "mes": "jun",
+        "qtde": 7683,
+        "valor": 123030.5
+      },
+      {
+        "mes": "jul",
+        "qtde": 11391,
+        "valor": 175452.51
+      },
+      {
+        "mes": "ago",
+        "qtde": 8831,
+        "valor": 154308.49
+      },
+      {
+        "mes": "set",
+        "qtde": 8932,
+        "valor": 137678.0
+      },
+      {
+        "mes": "out",
+        "qtde": 9877,
+        "valor": 152493.01
+      },
+      {
+        "mes": "nov",
+        "qtde": 9998,
+        "valor": 156101.5
+      },
+      {
+        "mes": "dez",
+        "qtde": 7795,
+        "valor": 117236.5
+      }
+    ],
+    "total_qtde": 121988,
+    "total_valor": 1907210.05
+  },
+  {
+    "uf": "PR",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 12047,
+        "valor": 181209.25
+      },
+      {
+        "mes": "fev",
+        "qtde": 12177,
+        "valor": 180503.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 11901,
+        "valor": 176994.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 10914,
+        "valor": 160616.5
+      },
+      {
+        "mes": "mai",
+        "qtde": 11514,
+        "valor": 174457.5
+      },
+      {
+        "mes": "jun",
+        "qtde": 11441,
+        "valor": 169721.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 10984,
+        "valor": 164404.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 11307,
+        "valor": 170023.01
+      },
+      {
+        "mes": "set",
+        "qtde": 8814,
+        "valor": 134277.0
+      },
+      {
+        "mes": "out",
+        "qtde": 9522,
+        "valor": 143675.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 7156,
+        "valor": 104970.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 7898,
+        "valor": 115899.40999999999
+      }
+    ],
+    "total_qtde": 125675,
+    "total_valor": 1876749.67
+  },
+  {
+    "uf": "RN",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 4356,
+        "valor": 150775.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 4731,
+        "valor": 156345.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 6091,
+        "valor": 208837.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 2766,
+        "valor": 93540.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 4699,
+        "valor": 159420.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 6485,
+        "valor": 219355.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 5514,
+        "valor": 188970.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 2720,
+        "valor": 90899.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4457,
+        "valor": 154477.0
+      },
+      {
+        "mes": "out",
+        "qtde": 4974,
+        "valor": 90787.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 5870,
+        "valor": 105076.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 7977,
+        "valor": 143452.5
+      }
+    ],
+    "total_qtde": 60640,
+    "total_valor": 1761933.5
+  },
+  {
+    "uf": "DF",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 11530,
+        "valor": 166293.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 10894,
+        "valor": 160844.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 6827,
+        "valor": 99462.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 12625,
+        "valor": 185173.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 10660,
+        "valor": 156025.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 10727,
+        "valor": 155451.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 16394,
+        "valor": 224064.9
+      },
+      {
+        "mes": "ago",
+        "qtde": 4639,
+        "valor": 69155.02
+      },
+      {
+        "mes": "set",
+        "qtde": 12116,
+        "valor": 177360.0
+      },
+      {
+        "mes": "out",
+        "qtde": 9738,
+        "valor": 143058.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 9399,
+        "valor": 137805.01
+      },
+      {
+        "mes": "dez",
+        "qtde": 23109,
+        "valor": 330698.01
+      }
+    ],
+    "total_qtde": 138658,
+    "total_valor": 2005388.94
+  },
+  {
+    "uf": "BA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 24846,
+        "valor": 641755.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 19732,
+        "valor": 513120.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 17829,
+        "valor": 467730.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 16625,
+        "valor": 436109.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 24623,
+        "valor": 635660.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 18239,
+        "valor": 475956.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 26654,
+        "valor": 689766.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 23668,
+        "valor": 613706.01
+      },
+      {
+        "mes": "set",
+        "qtde": 19654,
+        "valor": 518792.0
+      },
+      {
+        "mes": "out",
+        "qtde": 26337,
+        "valor": 678436.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 21738,
+        "valor": 572027.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 21153,
+        "valor": 557712.0
+      }
+    ],
+    "total_qtde": 261098,
+    "total_valor": 6800769.01
+  },
+  {
+    "uf": "AP",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 900,
+        "valor": 14400.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 602,
+        "valor": 10180.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 805,
+        "valor": 14105.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 700,
+        "valor": 11200.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1053,
+        "valor": 17995.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1501,
+        "valor": 24000.01
+      },
+      {
+        "mes": "jul",
+        "qtde": 1204,
+        "valor": 20580.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1203,
+        "valor": 20120.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1103,
+        "valor": 18520.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1601,
+        "valor": 25600.01
+      },
+      {
+        "mes": "dez",
+        "qtde": 1403,
+        "valor": 23320.0
+      }
+    ],
+    "total_qtde": 12075,
+    "total_valor": 200020.02000000002
+  },
+  {
+    "uf": "CE",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 16001,
+        "valor": 515970.04
+      },
+      {
+        "mes": "fev",
+        "qtde": 12898,
+        "valor": 400948.03
+      },
+      {
+        "mes": "mar",
+        "qtde": 12160,
+        "valor": 394880.04000000004
+      },
+      {
+        "mes": "abr",
+        "qtde": 12294,
+        "valor": 389017.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 15275,
+        "valor": 479084.01
+      },
+      {
+        "mes": "jun",
+        "qtde": 13799,
+        "valor": 445343.08999999997
+      },
+      {
+        "mes": "jul",
+        "qtde": 19737,
+        "valor": 580234.01
+      },
+      {
+        "mes": "ago",
+        "qtde": 16861,
+        "valor": 524640.05
+      },
+      {
+        "mes": "set",
+        "qtde": 17959,
+        "valor": 537641.98
+      },
+      {
+        "mes": "out",
+        "qtde": 19047,
+        "valor": 626622.11
+      },
+      {
+        "mes": "nov",
+        "qtde": 13349,
+        "valor": 441408.06
+      },
+      {
+        "mes": "dez",
+        "qtde": 11484,
+        "valor": 350288.03
+      }
+    ],
+    "total_qtde": 180864,
+    "total_valor": 5686076.45
+  },
+  {
+    "uf": "GO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3526,
+        "valor": 51720.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2507,
+        "valor": 37700.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2204,
+        "valor": 32680.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3040,
+        "valor": 46320.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 2919,
+        "valor": 44240.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 2609,
+        "valor": 38060.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 4567,
+        "valor": 64486.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 5129,
+        "valor": 93119.99
+      },
+      {
+        "mes": "set",
+        "qtde": 2976,
+        "valor": 43220.0
+      },
+      {
+        "mes": "out",
+        "qtde": 3988,
+        "valor": 61070.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 3209,
+        "valor": 49865.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 3007,
+        "valor": 44410.0
+      }
+    ],
+    "total_qtde": 39681,
+    "total_valor": 606890.99
+  },
+  {
+    "uf": "MA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 9301,
+        "valor": 278999.98000000004
+      },
+      {
+        "mes": "fev",
+        "qtde": 7007,
+        "valor": 212299.99000000002
+      },
+      {
+        "mes": "mar",
+        "qtde": 3800,
+        "valor": 113999.98999999999
+      },
+      {
+        "mes": "abr",
+        "qtde": 2254,
+        "valor": 69855.99
+      },
+      {
+        "mes": "mai",
+        "qtde": 4453,
+        "valor": 133500.01
+      },
+      {
+        "mes": "jun",
+        "qtde": 4553,
+        "valor": 136959.99000000002
+      },
+      {
+        "mes": "jul",
+        "qtde": 1720,
+        "valor": 46517.99
+      },
+      {
+        "mes": "ago",
+        "qtde": 5239,
+        "valor": 151903.99000000002
+      },
+      {
+        "mes": "set",
+        "qtde": 3709,
+        "valor": 114219.99
+      },
+      {
+        "mes": "out",
+        "qtde": 5182,
+        "valor": 151241.99
+      },
+      {
+        "mes": "nov",
+        "qtde": 4702,
+        "valor": 140999.99000000002
+      },
+      {
+        "mes": "dez",
+        "qtde": 1951,
+        "valor": 58500.0
+      }
+    ],
+    "total_qtde": 53871,
+    "total_valor": 1608999.9
+  },
+  {
+    "uf": "RS",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 5631,
+        "valor": 84010.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 920,
+        "valor": 13688.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 40,
+        "valor": 276.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 6591,
+    "total_valor": 97974.0
+  },
+  {
+    "uf": "PA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1809,
+        "valor": 34675.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2665,
+        "valor": 51720.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 3391,
+        "valor": 62982.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 2764,
+        "valor": 54865.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 3645,
+        "valor": 70135.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 4651,
+        "valor": 88226.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 5817,
+        "valor": 108729.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 3545,
+        "valor": 69325.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4797,
+        "valor": 89216.0
+      },
+      {
+        "mes": "out",
+        "qtde": 6311,
+        "valor": 112860.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 9822,
+        "valor": 176074.97999999998
+      },
+      {
+        "mes": "dez",
+        "qtde": 1154,
+        "valor": 23620.0
+      }
+    ],
+    "total_qtde": 50371,
+    "total_valor": 942427.98
+  },
+  {
+    "uf": "MS",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 13316,
+        "valor": 182762.53000000003
+      },
+      {
+        "mes": "fev",
+        "qtde": 2607,
+        "valor": 37910.01
+      },
+      {
+        "mes": "mar",
+        "qtde": 3980,
+        "valor": 54410.020000000004
+      },
+      {
+        "mes": "abr",
+        "qtde": 4427,
+        "valor": 63025.01
+      },
+      {
+        "mes": "mai",
+        "qtde": 2604,
+        "valor": 36510.01
+      },
+      {
+        "mes": "jun",
+        "qtde": 3931,
+        "valor": 59580.01
+      },
+      {
+        "mes": "jul",
+        "qtde": 3907,
+        "valor": 55125.020000000004
+      },
+      {
+        "mes": "ago",
+        "qtde": 3279,
+        "valor": 55315.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4207,
+        "valor": 60130.020000000004
+      },
+      {
+        "mes": "out",
+        "qtde": 402,
+        "valor": 7990.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1495,
+        "valor": 25825.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 3074,
+        "valor": 50070.0
+      }
+    ],
+    "total_qtde": 47229,
+    "total_valor": 688652.6300000001
+  },
+  {
+    "uf": "AC",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 804,
+        "valor": 12610.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2503,
+        "valor": 35390.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 751,
+        "valor": 10600.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 700,
+        "valor": 9900.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 704,
+        "valor": 10430.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 903,
+        "valor": 13980.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 3119,
+        "valor": 45770.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 806,
+        "valor": 12630.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2502,
+        "valor": 35390.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1501,
+        "valor": 21000.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 3515,
+        "valor": 54055.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1704,
+        "valor": 25060.0
+      }
+    ],
+    "total_qtde": 19512,
+    "total_valor": 286815.0
+  },
+  {
+    "uf": "MT",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1144,
+        "valor": 17891.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 500,
+        "valor": 7750.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 852,
+        "valor": 16625.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 501,
+        "valor": 7750.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 802,
+        "valor": 12400.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 3799,
+    "total_valor": 62416.0
+  },
+  {
+    "uf": "PI",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 604,
+        "valor": 13200.04
+      },
+      {
+        "mes": "fev",
+        "qtde": 902,
+        "valor": 19800.02
+      },
+      {
+        "mes": "mar",
+        "qtde": 902,
+        "valor": 19800.02
+      },
+      {
+        "mes": "abr",
+        "qtde": 902,
+        "valor": 19800.02
+      },
+      {
+        "mes": "mai",
+        "qtde": 2004,
+        "valor": 40390.02
+      },
+      {
+        "mes": "jun",
+        "qtde": 1003,
+        "valor": 22000.03
+      },
+      {
+        "mes": "jul",
+        "qtde": 1111,
+        "valor": 23030.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1005,
+        "valor": 22005.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1908,
+        "valor": 37420.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 10341,
+    "total_valor": 217445.15000000002
+  },
+  {
+    "uf": "RR",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 11,
+        "valor": 4355.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 212,
+        "valor": 7645.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 2000,
+        "valor": 36000.02
+      },
+      {
+        "mes": "jun",
+        "qtde": 15,
+        "valor": 6300.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1000,
+        "valor": 18000.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 2514,
+        "valor": 49590.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 5752,
+    "total_valor": 121890.01999999999
+  },
+  {
+    "uf": "AM",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 15378,
+        "valor": 261078.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 15046,
+        "valor": 252775.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 69,
+        "valor": 22221.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 36000,
+        "valor": 585000.0399999999
+      },
+      {
+        "mes": "dez",
+        "qtde": 22,
+        "valor": 6090.0
+      }
+    ],
+    "total_qtde": 66515,
+    "total_valor": 1127164.04
+  },
+  {
+    "uf": "PB",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 603,
+        "valor": 12090.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 520,
+        "valor": 3750.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 504,
+        "valor": 11895.0
+      },
+      {
+        "mes": "set",
+        "qtde": 705,
+        "valor": 13960.0
+      },
+      {
+        "mes": "out",
+        "qtde": 401,
+        "valor": 8790.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 200,
+        "valor": 4200.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 250,
+        "valor": 5250.0
+      }
+    ],
+    "total_qtde": 3183,
+    "total_valor": 59935.0
+  }
+]

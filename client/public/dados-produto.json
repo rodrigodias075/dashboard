@@ -1,0 +1,4759 @@
+[
+  {
+    "produto": "LACRE DE PARAFUSO / PACOTE 200 UND",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 4,
+        "valor": 700.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2,
+        "valor": 300.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 300.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 5,
+        "valor": 750.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 2,
+        "valor": 300.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 2,
+        "valor": 300.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 3,
+        "valor": 500.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 2,
+        "valor": 0.02
+      },
+      {
+        "mes": "set",
+        "qtde": 3,
+        "valor": 450.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 3,
+        "valor": 300.01
+      },
+      {
+        "mes": "dez",
+        "qtde": 1,
+        "valor": 150.0
+      }
+    ],
+    "total_qtde": 29,
+    "total_valor": 4050.03
+  },
+  {
+    "produto": "PLACA AMOSTRA CARRO - JKG",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 159,
+        "valor": 2264.25
+      },
+      {
+        "mes": "fev",
+        "qtde": 10,
+        "valor": 148.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 30,
+        "valor": 420.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 50,
+        "valor": 800.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 910,
+        "valor": 308.9
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1159,
+    "total_valor": 3941.15
+  },
+  {
+    "produto": "PLACA AMOSTRA MOTO - JKG",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3,
+        "valor": 60.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 100,
+        "valor": 1500.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 104,
+    "total_valor": 1560.0
+  },
+  {
+    "produto": "PLACA DECORATIVA BRANCA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 15,
+        "valor": 224.25
+      },
+      {
+        "mes": "fev",
+        "qtde": 27,
+        "valor": 490.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 5,
+        "valor": 75.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 16,
+        "valor": 234.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 9,
+        "valor": 131.32
+      },
+      {
+        "mes": "jun",
+        "qtde": 10,
+        "valor": 160.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 22,
+        "valor": 310.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 10,
+        "valor": 145.0
+      },
+      {
+        "mes": "set",
+        "qtde": 10,
+        "valor": 142.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 23,
+        "valor": 350.0
+      }
+    ],
+    "total_qtde": 149,
+    "total_valor": 2292.0699999999997
+  },
+  {
+    "produto": "PLACA DECORATIVA PRETA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 25,
+        "valor": 375.75
+      },
+      {
+        "mes": "fev",
+        "qtde": 13,
+        "valor": 210.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 35,
+        "valor": 511.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 69,
+        "valor": 947.6
+      },
+      {
+        "mes": "mai",
+        "qtde": 181,
+        "valor": 2719.3199999999997
+      },
+      {
+        "mes": "jun",
+        "qtde": 15,
+        "valor": 232.5
+      },
+      {
+        "mes": "jul",
+        "qtde": 100,
+        "valor": 1550.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 25,
+        "valor": 373.5
+      },
+      {
+        "mes": "set",
+        "qtde": 98,
+        "valor": 1514.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 50,
+        "valor": 780.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 58,
+        "valor": 874.7
+      }
+    ],
+    "total_qtde": 671,
+    "total_valor": 10118.87
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - 3M",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 900,
+        "valor": 13750.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 300,
+        "valor": 4650.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 300,
+        "valor": 4650.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 500,
+        "valor": 7750.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 200,
+        "valor": 3000.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 200,
+        "valor": 3000.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 200,
+        "valor": 3000.0
+      },
+      {
+        "mes": "set",
+        "qtde": 200,
+        "valor": 3000.0
+      },
+      {
+        "mes": "out",
+        "qtde": 200,
+        "valor": 3000.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 300,
+        "valor": 4325.0
+      }
+    ],
+    "total_qtde": 3300,
+    "total_valor": 50125.0
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - JKG",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 94694,
+        "valor": 1850091.01
+      },
+      {
+        "mes": "fev",
+        "qtde": 75499,
+        "valor": 1493880.97
+      },
+      {
+        "mes": "mar",
+        "qtde": 59700,
+        "valor": 1224644.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 64594,
+        "valor": 1214270.2
+      },
+      {
+        "mes": "mai",
+        "qtde": 77349,
+        "valor": 1553299.98
+      },
+      {
+        "mes": "jun",
+        "qtde": 74199,
+        "valor": 1459805.47
+      },
+      {
+        "mes": "jul",
+        "qtde": 101517,
+        "valor": 1965948.99
+      },
+      {
+        "mes": "ago",
+        "qtde": 67399,
+        "valor": 1417085.96
+      },
+      {
+        "mes": "set",
+        "qtde": 72700,
+        "valor": 1436249.98
+      },
+      {
+        "mes": "out",
+        "qtde": 78317,
+        "valor": 1592539.95
+      },
+      {
+        "mes": "nov",
+        "qtde": 87800,
+        "valor": 1666280.0299999998
+      },
+      {
+        "mes": "dez",
+        "qtde": 76300,
+        "valor": 1394789.98
+      }
+    ],
+    "total_qtde": 930068,
+    "total_valor": 18268886.52
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - PRETA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 207,
+        "valor": 6280.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 279,
+        "valor": 8930.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 247,
+        "valor": 7520.5
+      },
+      {
+        "mes": "abr",
+        "qtde": 226,
+        "valor": 6575.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 250,
+        "valor": 7313.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 305,
+        "valor": 8190.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 319,
+        "valor": 9803.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 155,
+        "valor": 4736.0
+      },
+      {
+        "mes": "set",
+        "qtde": 217,
+        "valor": 6131.0
+      },
+      {
+        "mes": "out",
+        "qtde": 527,
+        "valor": 15864.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 258,
+        "valor": 7553.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 228,
+        "valor": 6538.0
+      }
+    ],
+    "total_qtde": 3218,
+    "total_valor": 95433.5
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - PRISMATICA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 150,
+        "valor": 2400.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 150,
+        "valor": 2700.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 150,
+        "valor": 2400.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 150,
+        "valor": 2325.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 150,
+        "valor": 2400.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 50,
+        "valor": 790.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 250,
+        "valor": 4050.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 100,
+        "valor": 1650.0
+      },
+      {
+        "mes": "set",
+        "qtde": 200,
+        "valor": 3100.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 250,
+        "valor": 4300.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 350,
+        "valor": 6300.0
+      }
+    ],
+    "total_qtde": 1950,
+    "total_valor": 32415.0
+  },
+  {
+    "produto": "PLACA MERCOSUL MINI (11X34) - CARRO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 184,
+        "valor": 4100.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 197,
+        "valor": 4525.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 140,
+        "valor": 3384.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 180,
+        "valor": 3830.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 168,
+        "valor": 4439.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 358,
+        "valor": 8130.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 162,
+        "valor": 3855.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 366,
+        "valor": 9645.0
+      },
+      {
+        "mes": "set",
+        "qtde": 136,
+        "valor": 3830.0
+      },
+      {
+        "mes": "out",
+        "qtde": 334,
+        "valor": 8740.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 296,
+        "valor": 8270.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 180,
+        "valor": 3770.0
+      }
+    ],
+    "total_qtde": 2701,
+    "total_valor": 66518.0
+  },
+  {
+    "produto": "PLACA MERCOSUL MOTO - 3M",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 200,
+        "valor": 3050.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 50,
+        "valor": 775.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 100,
+        "valor": 1550.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 50,
+        "valor": 750.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 100,
+        "valor": 1450.0
+      }
+    ],
+    "total_qtde": 500,
+    "total_valor": 7575.0
+  },
+  {
+    "produto": "PLACA MERCOSUL MOTO - JKG",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 32241,
+        "valor": 735545.88
+      },
+      {
+        "mes": "fev",
+        "qtde": 25700,
+        "valor": 580019.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 25150,
+        "valor": 583513.49
+      },
+      {
+        "mes": "abr",
+        "qtde": 23400,
+        "valor": 528100.01
+      },
+      {
+        "mes": "mai",
+        "qtde": 28850,
+        "valor": 665647.51
+      },
+      {
+        "mes": "jun",
+        "qtde": 35150,
+        "valor": 779391.02
+      },
+      {
+        "mes": "jul",
+        "qtde": 34021,
+        "valor": 723528.98
+      },
+      {
+        "mes": "ago",
+        "qtde": 26150,
+        "valor": 619027.51
+      },
+      {
+        "mes": "set",
+        "qtde": 28999,
+        "valor": 675121.49
+      },
+      {
+        "mes": "out",
+        "qtde": 30448,
+        "valor": 699847.51
+      },
+      {
+        "mes": "nov",
+        "qtde": 46650,
+        "valor": 927052.45
+      },
+      {
+        "mes": "dez",
+        "qtde": 22000,
+        "valor": 471023.0
+      }
+    ],
+    "total_qtde": 358759,
+    "total_valor": 7987817.85
+  },
+  {
+    "produto": "PLACA MERCOSUL MOTO - JKG BDE",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 300,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 50,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 50,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 250,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 50,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 300,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 250,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 50,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 350,
+        "valor": 0.5
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 100,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1750,
+    "total_valor": 0.5
+  },
+  {
+    "produto": "PLACA MERCOSUL MOTO - PRETA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3,
+        "valor": 120.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 19,
+        "valor": 760.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 7,
+        "valor": 280.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 7,
+        "valor": 227.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 16,
+        "valor": 650.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 35,
+        "valor": 1000.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 25,
+        "valor": 894.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 4,
+        "valor": 160.0
+      },
+      {
+        "mes": "set",
+        "qtde": 13,
+        "valor": 467.0
+      },
+      {
+        "mes": "out",
+        "qtde": 29,
+        "valor": 1160.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 23,
+        "valor": 860.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 13,
+        "valor": 520.0
+      }
+    ],
+    "total_qtde": 194,
+    "total_valor": 7098.0
+  },
+  {
+    "produto": "PLACA MERCOSUL MOTO - SUBSTITUICAO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 2,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 3,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "PLACA MERCOSUL REDUZIDA - CARRO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 363,
+        "valor": 9550.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 460,
+        "valor": 11440.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 280,
+        "valor": 6950.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 342,
+        "valor": 7040.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 241,
+        "valor": 6855.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 561,
+        "valor": 14795.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 580,
+        "valor": 14750.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 461,
+        "valor": 12070.0
+      },
+      {
+        "mes": "set",
+        "qtde": 220,
+        "valor": 5440.0
+      },
+      {
+        "mes": "out",
+        "qtde": 282,
+        "valor": 7050.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 360,
+        "valor": 9890.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 241,
+        "valor": 5745.0
+      }
+    ],
+    "total_qtde": 4391,
+    "total_valor": 111575.0
+  },
+  {
+    "produto": "PLACA MERCOSUL REDUZIDA - PRETA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 12,
+        "valor": 480.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 66,
+        "valor": 2750.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 21,
+        "valor": 722.5
+      },
+      {
+        "mes": "abr",
+        "qtde": 50,
+        "valor": 2010.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 28,
+        "valor": 1185.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 19,
+        "valor": 775.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 26,
+        "valor": 840.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 35,
+        "valor": 1398.0
+      },
+      {
+        "mes": "set",
+        "qtde": 24,
+        "valor": 934.0
+      },
+      {
+        "mes": "out",
+        "qtde": 31,
+        "valor": 1192.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 71,
+        "valor": 2634.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 10,
+        "valor": 400.0
+      }
+    ],
+    "total_qtde": 393,
+    "total_valor": 15320.5
+  },
+  {
+    "produto": "RIBBON CARRO AZUL 61 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3,
+        "valor": 345.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 11,
+        "valor": 1265.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 8,
+        "valor": 805.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 5,
+        "valor": 575.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 4,
+        "valor": 460.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 3,
+        "valor": 345.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 7,
+        "valor": 805.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 6,
+        "valor": 690.0
+      },
+      {
+        "mes": "set",
+        "qtde": 9,
+        "valor": 920.0
+      },
+      {
+        "mes": "out",
+        "qtde": 6,
+        "valor": 690.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 5,
+        "valor": 575.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 14,
+        "valor": 1610.0
+      }
+    ],
+    "total_qtde": 81,
+    "total_valor": 9085.0
+  },
+  {
+    "produto": "RIBBON CARRO AZUL 61 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 5,
+        "valor": 450.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 4,
+        "valor": 360.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 3,
+        "valor": 270.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3,
+        "valor": 270.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 4,
+        "valor": 360.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 4,
+        "valor": 360.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 6,
+        "valor": 540.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4,
+        "valor": 360.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 7,
+        "valor": 630.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 2,
+        "valor": 180.0
+      }
+    ],
+    "total_qtde": 42,
+    "total_valor": 3780.0
+  },
+  {
+    "produto": "RIBBON CARRO BRANCO 30 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 10,
+        "valor": 720.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 13,
+        "valor": 1040.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 6,
+        "valor": 480.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 4,
+        "valor": 160.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 9,
+        "valor": 720.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 13,
+        "valor": 880.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 12,
+        "valor": 960.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 4,
+        "valor": 320.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2,
+        "valor": 160.0
+      },
+      {
+        "mes": "out",
+        "qtde": 3,
+        "valor": 240.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 2,
+        "valor": 160.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 5,
+        "valor": 400.0
+      }
+    ],
+    "total_qtde": 83,
+    "total_valor": 6240.0
+  },
+  {
+    "produto": "RIBBON CARRO CINZA 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 2,
+        "valor": 180.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 4,
+    "total_valor": 360.0
+  },
+  {
+    "produto": "RIBBON CARRO PRETO 244 - CROWN BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 26,
+        "valor": 9360.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 20,
+        "valor": 6698.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 18,
+        "valor": 6240.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 27,
+        "valor": 10140.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 19,
+        "valor": 6630.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 16,
+        "valor": 5070.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 27,
+        "valor": 8580.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 31,
+        "valor": 11310.0
+      },
+      {
+        "mes": "set",
+        "qtde": 16,
+        "valor": 5850.0
+      },
+      {
+        "mes": "out",
+        "qtde": 23,
+        "valor": 7410.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 24,
+        "valor": 8970.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 20,
+        "valor": 7020.0
+      }
+    ],
+    "total_qtde": 267,
+    "total_valor": 93278.0
+  },
+  {
+    "produto": "RIBBON CARRO PRETO 244 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 84,
+        "valor": 30030.010000000002
+      },
+      {
+        "mes": "fev",
+        "qtde": 59,
+        "valor": 22230.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 53,
+        "valor": 19500.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 54,
+        "valor": 21060.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 67,
+        "valor": 25350.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 52,
+        "valor": 19500.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 75,
+        "valor": 27690.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 51,
+        "valor": 19110.010000000002
+      },
+      {
+        "mes": "set",
+        "qtde": 56,
+        "valor": 20670.0
+      },
+      {
+        "mes": "out",
+        "qtde": 60,
+        "valor": 22620.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 51,
+        "valor": 18330.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 47,
+        "valor": 17940.0
+      }
+    ],
+    "total_qtde": 709,
+    "total_valor": 264030.02
+  },
+  {
+    "produto": "RIBBON CARRO PRETO 244 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 64,
+        "valor": 18020.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 60,
+        "valor": 16320.02
+      },
+      {
+        "mes": "mar",
+        "qtde": 29,
+        "valor": 8160.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 55,
+        "valor": 14280.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 72,
+        "valor": 19720.04
+      },
+      {
+        "mes": "jun",
+        "qtde": 61,
+        "valor": 15980.01
+      },
+      {
+        "mes": "jul",
+        "qtde": 54,
+        "valor": 13600.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 58,
+        "valor": 17340.0
+      },
+      {
+        "mes": "set",
+        "qtde": 52,
+        "valor": 13940.0
+      },
+      {
+        "mes": "out",
+        "qtde": 47,
+        "valor": 12580.02
+      },
+      {
+        "mes": "nov",
+        "qtde": 57,
+        "valor": 15640.02
+      },
+      {
+        "mes": "dez",
+        "qtde": 68,
+        "valor": 15640.0
+      }
+    ],
+    "total_qtde": 677,
+    "total_valor": 181220.11
+  },
+  {
+    "produto": "RIBBON CARRO PRETO 244 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 14,
+        "valor": 4760.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 10,
+        "valor": 2720.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 9,
+        "valor": 3060.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 12,
+        "valor": 4080.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 9,
+        "valor": 2720.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 29,
+        "valor": 8360.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 27,
+        "valor": 8360.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 6,
+        "valor": 2040.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4,
+        "valor": 1020.0
+      },
+      {
+        "mes": "out",
+        "qtde": 66,
+        "valor": 20226.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 5,
+        "valor": 1700.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 4,
+        "valor": 1360.0
+      }
+    ],
+    "total_qtde": 195,
+    "total_valor": 60406.0
+  },
+  {
+    "produto": "RIBBON CARRO VERMELHO 122 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 19,
+        "valor": 3895.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 26,
+        "valor": 5125.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 21,
+        "valor": 4305.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 18,
+        "valor": 3490.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 18,
+        "valor": 3485.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 20,
+        "valor": 4100.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 27,
+        "valor": 5330.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 26,
+        "valor": 5125.0
+      },
+      {
+        "mes": "set",
+        "qtde": 20,
+        "valor": 4100.0
+      },
+      {
+        "mes": "out",
+        "qtde": 19,
+        "valor": 4005.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 20,
+        "valor": 4100.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 15,
+        "valor": 3075.0
+      }
+    ],
+    "total_qtde": 249,
+    "total_valor": 50135.0
+  },
+  {
+    "produto": "RIBBON CARRO VERMELHO 122 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 8,
+        "valor": 1285.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 7,
+        "valor": 1050.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 4,
+        "valor": 700.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 7,
+        "valor": 1050.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 9,
+        "valor": 1050.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 14,
+        "valor": 2450.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 19,
+        "valor": 3325.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 12,
+        "valor": 2100.0
+      },
+      {
+        "mes": "set",
+        "qtde": 9,
+        "valor": 1635.0
+      },
+      {
+        "mes": "out",
+        "qtde": 8,
+        "valor": 1400.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 8,
+        "valor": 1400.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 6,
+        "valor": 1050.0
+      }
+    ],
+    "total_qtde": 111,
+    "total_valor": 18495.0
+  },
+  {
+    "produto": "RIBBON CARRO VERMELHO 122 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 4,
+        "valor": 525.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 3,
+        "valor": 525.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 4,
+        "valor": 700.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 3,
+        "valor": 350.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 6,
+        "valor": 950.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 4,
+        "valor": 640.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 5,
+        "valor": 525.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2,
+        "valor": 350.0
+      },
+      {
+        "mes": "out",
+        "qtde": 6,
+        "valor": 760.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1,
+        "valor": 175.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1,
+        "valor": 175.0
+      }
+    ],
+    "total_qtde": 39,
+    "total_valor": 5675.0
+  },
+  {
+    "produto": "RIBBON MOTO AZUL 61 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1,
+        "valor": 145.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 290.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 145.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 290.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 3,
+        "valor": 435.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1,
+        "valor": 145.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1,
+        "valor": 145.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1,
+        "valor": 145.0
+      }
+    ],
+    "total_qtde": 12,
+    "total_valor": 1740.0
+  },
+  {
+    "produto": "RIBBON MOTO AZUL 61 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1,
+        "valor": 120.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 120.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1,
+        "valor": 120.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1,
+        "valor": 120.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 3,
+        "valor": 360.0
+      }
+    ],
+    "total_qtde": 11,
+    "total_valor": 1320.0
+  },
+  {
+    "produto": "RIBBON MOTO BRANCO 30 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 1,
+        "valor": 100.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 200.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 4,
+        "valor": 400.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 100.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 4,
+        "valor": 400.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 6,
+        "valor": 600.0
+      },
+      {
+        "mes": "set",
+        "qtde": 5,
+        "valor": 500.0
+      },
+      {
+        "mes": "out",
+        "qtde": 3,
+        "valor": 300.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 26,
+    "total_valor": 2600.0
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 122 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 5,
+        "valor": 520.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 3,
+        "valor": 520.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 4,
+        "valor": 260.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 3,
+        "valor": 260.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 4,
+        "valor": 520.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 2,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 9,
+        "valor": 1040.0
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 2,
+        "valor": 260.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 36,
+    "total_valor": 3380.0
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 122 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 2,
+        "valor": 235.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 2,
+        "valor": 235.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 4,
+        "valor": 705.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 1,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 14,
+    "total_valor": 1880.0
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 122 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 2,
+        "valor": 235.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 260.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 7,
+    "total_valor": 730.0
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 244 - CROWN BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 32,
+        "valor": 8910.09
+      },
+      {
+        "mes": "fev",
+        "qtde": 23,
+        "valor": 6930.049999999999
+      },
+      {
+        "mes": "mar",
+        "qtde": 25,
+        "valor": 7425.08
+      },
+      {
+        "mes": "abr",
+        "qtde": 18,
+        "valor": 6930.02
+      },
+      {
+        "mes": "mai",
+        "qtde": 33,
+        "valor": 9900.06
+      },
+      {
+        "mes": "jun",
+        "qtde": 30,
+        "valor": 7920.1
+      },
+      {
+        "mes": "jul",
+        "qtde": 49,
+        "valor": 15345.060000000001
+      },
+      {
+        "mes": "ago",
+        "qtde": 37,
+        "valor": 13860.050000000001
+      },
+      {
+        "mes": "set",
+        "qtde": 29,
+        "valor": 9405.01
+      },
+      {
+        "mes": "out",
+        "qtde": 46,
+        "valor": 12870.119999999999
+      },
+      {
+        "mes": "nov",
+        "qtde": 43,
+        "valor": 13860.07
+      },
+      {
+        "mes": "dez",
+        "qtde": 21,
+        "valor": 7920.05
+      }
+    ],
+    "total_qtde": 386,
+    "total_valor": 121275.76000000001
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 244 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 21,
+        "valor": 9900.01
+      },
+      {
+        "mes": "fev",
+        "qtde": 13,
+        "valor": 5940.01
+      },
+      {
+        "mes": "mar",
+        "qtde": 13,
+        "valor": 5940.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 16,
+        "valor": 7425.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 16,
+        "valor": 7920.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 15,
+        "valor": 7425.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 18,
+        "valor": 8415.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 13,
+        "valor": 5940.0
+      },
+      {
+        "mes": "set",
+        "qtde": 22,
+        "valor": 10395.0
+      },
+      {
+        "mes": "out",
+        "qtde": 15,
+        "valor": 7425.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 16,
+        "valor": 6435.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 21,
+        "valor": 8415.0
+      }
+    ],
+    "total_qtde": 199,
+    "total_valor": 91575.02
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 244 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 33,
+        "valor": 14260.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 26,
+        "valor": 11960.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 30,
+        "valor": 13340.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 39,
+        "valor": 17480.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 29,
+        "valor": 13375.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 48,
+        "valor": 20700.010000000002
+      },
+      {
+        "mes": "jul",
+        "qtde": 30,
+        "valor": 11040.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 39,
+        "valor": 14260.01
+      },
+      {
+        "mes": "set",
+        "qtde": 39,
+        "valor": 15180.01
+      },
+      {
+        "mes": "out",
+        "qtde": 52,
+        "valor": 21160.010000000002
+      },
+      {
+        "mes": "nov",
+        "qtde": 33,
+        "valor": 12420.01
+      },
+      {
+        "mes": "dez",
+        "qtde": 40,
+        "valor": 16560.010000000002
+      }
+    ],
+    "total_qtde": 438,
+    "total_valor": 181735.06
+  },
+  {
+    "produto": "RIBBON MOTO PRETO 244 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 8,
+        "valor": 3680.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 4,
+        "valor": 1840.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 920.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 10,
+        "valor": 4600.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 3,
+        "valor": 1380.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 14,
+        "valor": 5725.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 13,
+        "valor": 5320.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 3,
+        "valor": 1380.0
+      },
+      {
+        "mes": "set",
+        "qtde": 4,
+        "valor": 1840.0
+      },
+      {
+        "mes": "out",
+        "qtde": 23,
+        "valor": 9755.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 2,
+        "valor": 920.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 12,
+        "valor": 4510.01
+      }
+    ],
+    "total_qtde": 98,
+    "total_valor": 41870.01
+  },
+  {
+    "produto": "RIBBON MOTO VERMELHO 122 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3,
+        "valor": 780.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 2,
+        "valor": 520.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 10,
+        "valor": 2600.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 4,
+        "valor": 1040.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 2,
+        "valor": 520.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 9,
+        "valor": 1820.02
+      },
+      {
+        "mes": "jul",
+        "qtde": 6,
+        "valor": 1040.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 9,
+        "valor": 2340.0
+      },
+      {
+        "mes": "set",
+        "qtde": 9,
+        "valor": 2340.0
+      },
+      {
+        "mes": "out",
+        "qtde": 3,
+        "valor": 780.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 6,
+        "valor": 1560.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 5,
+        "valor": 1040.0
+      }
+    ],
+    "total_qtde": 68,
+    "total_valor": 16380.02
+  },
+  {
+    "produto": "RIBBON MOTO VERMELHO 122 - MP BRILHO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 11,
+        "valor": 2350.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 11,
+        "valor": 2115.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 470.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3,
+        "valor": 705.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 5,
+        "valor": 940.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 5,
+        "valor": 1175.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 4,
+        "valor": 940.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 3,
+        "valor": 470.0
+      },
+      {
+        "mes": "set",
+        "qtde": 9,
+        "valor": 2115.0
+      },
+      {
+        "mes": "out",
+        "qtde": 16,
+        "valor": 3290.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 5,
+        "valor": 1175.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 6,
+        "valor": 1410.0
+      }
+    ],
+    "total_qtde": 80,
+    "total_valor": 17155.0
+  },
+  {
+    "produto": "RIBBON MOTO VERMELHO 122 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 3,
+        "valor": 470.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3,
+        "valor": 705.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 6,
+        "valor": 1210.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 390.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1,
+        "valor": 235.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 8,
+        "valor": 1560.0
+      }
+    ],
+    "total_qtde": 24,
+    "total_valor": 4805.0
+  },
+  {
+    "produto": "SUPORTE PARA PLACA DE CARRO MERCOSUL - BASE FINA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 380,
+        "valor": 2680.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 500,
+        "valor": 3790.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 280,
+        "valor": 1956.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 300,
+        "valor": 2134.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 320,
+        "valor": 2232.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 180,
+        "valor": 1278.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 640,
+        "valor": 4456.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 220,
+        "valor": 1590.0
+      },
+      {
+        "mes": "set",
+        "qtde": 500,
+        "valor": 3468.0
+      },
+      {
+        "mes": "out",
+        "qtde": 500,
+        "valor": 3558.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 200,
+        "valor": 1434.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 160,
+        "valor": 1104.0
+      }
+    ],
+    "total_qtde": 4180,
+    "total_valor": 29680.0
+  },
+  {
+    "produto": "SUPORTE PARA PLACA DE CARRO MERCOSUL - BASE LARGA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 160,
+        "valor": 1200.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 60,
+        "valor": 450.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 120,
+        "valor": 900.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 40,
+        "valor": 300.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 60,
+        "valor": 450.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 160,
+        "valor": 1200.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 40,
+        "valor": 300.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 60,
+        "valor": 450.0
+      },
+      {
+        "mes": "set",
+        "qtde": 20,
+        "valor": 150.0
+      },
+      {
+        "mes": "out",
+        "qtde": 200,
+        "valor": 1500.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 20,
+        "valor": 150.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 40,
+        "valor": 300.0
+      }
+    ],
+    "total_qtde": 980,
+    "total_valor": 7350.0
+  },
+  {
+    "produto": "SUPORTE PARA PLACA DE MOTO MERCOSUL - BASE FINA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 800,
+        "valor": 5646.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 980,
+        "valor": 6926.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1100,
+        "valor": 7762.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 1080,
+        "valor": 7632.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 940,
+        "valor": 6674.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1320,
+        "valor": 9386.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1580,
+        "valor": 11084.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 1140,
+        "valor": 8028.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1220,
+        "valor": 8364.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1620,
+        "valor": 11394.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 820,
+        "valor": 5730.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 620,
+        "valor": 4316.2
+      }
+    ],
+    "total_qtde": 13220,
+    "total_valor": 92942.2
+  },
+  {
+    "produto": "SUPORTE PARA PLACA DE MOTO MERCOSUL - BASE LARGA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 120,
+        "valor": 900.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 100,
+        "valor": 766.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 120,
+        "valor": 900.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 40,
+        "valor": 300.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 100,
+        "valor": 756.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 120,
+        "valor": 900.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 80,
+        "valor": 600.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 80,
+        "valor": 600.0
+      },
+      {
+        "mes": "set",
+        "qtde": 80,
+        "valor": 600.0
+      },
+      {
+        "mes": "out",
+        "qtde": 320,
+        "valor": 2400.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 20,
+        "valor": 150.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 20,
+        "valor": 150.0
+      }
+    ],
+    "total_qtde": 1200,
+    "total_valor": 9022.0
+  },
+  {
+    "produto": "PLACA DECORATIVA AMARELA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 20,
+        "valor": 296.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 2,
+        "valor": 29.6
+      },
+      {
+        "mes": "mai",
+        "qtde": 23,
+        "valor": 352.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 20,
+        "valor": 320.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 5,
+        "valor": 72.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 25,
+        "valor": 357.5
+      }
+    ],
+    "total_qtde": 99,
+    "total_valor": 1487.6
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - SUBSTITUICAO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 7,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 11,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "RIBBON CARRO AZUL 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 3,
+        "valor": 270.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "set",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 180.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 8,
+    "total_valor": 720.0
+  },
+  {
+    "produto": "RIBBON CARRO PRETO 122 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 2,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 3,
+        "valor": 780.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1,
+        "valor": 205.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 2,
+        "valor": 205.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 3,
+        "valor": 205.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 14,
+    "total_valor": 1395.0
+  },
+  {
+    "produto": "RIBBON CARRO BRANCO 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1,
+        "valor": 115.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 1,
+        "valor": 115.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 93.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 2,
+        "valor": 230.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 5,
+    "total_valor": 553.0
+  },
+  {
+    "produto": "RIBBON MOTO VERMELHO 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 1,
+        "valor": 145.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 145.0
+  },
+  {
+    "produto": "PLACA DECORATIVA LARANJA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 5,
+        "valor": 70.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 5,
+        "valor": 70.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 5,
+        "valor": 80.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 20,
+        "valor": 280.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 5,
+        "valor": 72.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 10,
+        "valor": 145.0
+      }
+    ],
+    "total_qtde": 52,
+    "total_valor": 747.5
+  },
+  {
+    "produto": "PLACA DECORATIVA VERDE",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 10,
+        "valor": 144.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 23,
+        "valor": 352.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 5,
+        "valor": 80.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 20,
+        "valor": 280.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 5,
+        "valor": 72.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 25,
+        "valor": 357.5
+      }
+    ],
+    "total_qtde": 90,
+    "total_valor": 1316.0
+  },
+  {
+    "produto": "PLACA DECORATIVA VERMELHA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 1,
+        "valor": 14.8
+      },
+      {
+        "mes": "mai",
+        "qtde": 25,
+        "valor": 380.32
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 15,
+        "valor": 212.5
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 30.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 30,
+        "valor": 430.0
+      }
+    ],
+    "total_qtde": 75,
+    "total_valor": 1097.62
+  },
+  {
+    "produto": "PLACA MERCOSUL REDUZIDA - SUBSTITUICAO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "RIBBON CARRO AMARELO 61 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 1,
+        "valor": 115.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 115.0
+  },
+  {
+    "produto": "SUPORTE MOTO TRIANGULAR",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 120,
+        "valor": 660.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 120,
+        "valor": 660.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 20,
+        "valor": 110.0
+      },
+      {
+        "mes": "set",
+        "qtde": 20,
+        "valor": 110.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 20,
+        "valor": 80.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 300,
+    "total_valor": 1620.0
+  },
+  {
+    "produto": "RIBBON CARRO AMARELO 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 90.0
+  },
+  {
+    "produto": "RIBBON CARRO VERDE 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 1,
+        "valor": 90.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 2,
+    "total_valor": 180.0
+  },
+  {
+    "produto": "RIBBON MOTO AMARELO 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 3,
+        "valor": 360.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 5,
+    "total_valor": 600.0
+  },
+  {
+    "produto": "RIBBON MOTO AZUL 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 3,
+        "valor": 360.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 4,
+        "valor": 480.0
+      }
+    ],
+    "total_qtde": 9,
+    "total_valor": 1080.0
+  },
+  {
+    "produto": "RIBBON MOTO BRANCO 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 3,
+        "valor": 360.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 5,
+    "total_valor": 600.0
+  },
+  {
+    "produto": "RIBBON MOTO VERDE 61 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 3,
+        "valor": 360.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 240.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 5,
+    "total_valor": 600.0
+  },
+  {
+    "produto": "PLACA AMOSTRA CARRO - 3M",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 6,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 6,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "PLACA AMOSTRA CARRO - PRETA",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 2,
+        "valor": 28.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 2,
+    "total_valor": 28.0
+  },
+  {
+    "produto": "PLACA AMOSTRA MERCOSUL MINI (11X34) - CARRO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 3,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 3,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "PLACA AMOSTRA REDUZIDA - CARRO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 0.0
+  },
+  {
+    "produto": "PLACA MERCOSUL CARRO - JKG...",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 100,
+        "valor": 1.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 100,
+    "total_valor": 1.0
+  },
+  {
+    "produto": "RIBBON CARRO VERDE 61 - CROWN FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 1,
+        "valor": 115.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 0,
+        "valor": 0.0
+      }
+    ],
+    "total_qtde": 1,
+    "total_valor": 115.0
+  },
+  {
+    "produto": "RIBBON MOTO BRANCO 50 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 1,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "out",
+        "qtde": 2,
+        "valor": 0.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 5,
+        "valor": 580.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 2,
+        "valor": 290.0
+      }
+    ],
+    "total_qtde": 10,
+    "total_valor": 870.0
+  },
+  {
+    "produto": "RIBBON CARRO BRANCO 50 - MP FOSCO",
+    "meses": [
+      {
+        "mes": "jan",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "fev",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mar",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "abr",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "mai",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jun",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "jul",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "ago",
+        "qtde": 0,
+        "valor": 0.0
+      },
+      {
+        "mes": "set",
+        "qtde": 3,
+        "valor": 345.0
+      },
+      {
+        "mes": "out",
+        "qtde": 10,
+        "valor": 1150.0
+      },
+      {
+        "mes": "nov",
+        "qtde": 3,
+        "valor": 230.0
+      },
+      {
+        "mes": "dez",
+        "qtde": 2,
+        "valor": 230.0
+      }
+    ],
+    "total_qtde": 18,
+    "total_valor": 1955.0
+  }
+]
